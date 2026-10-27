@@ -6,7 +6,7 @@ Nexora Bank is an original, production-grade financial web platform featuring a 
 
 ## 🌟 Signature Differentiators & Innovative Features
 
-1. **Advance Journey Timeline**: A real-time visual progress tracker tracing each advance through 6 sequential lifecycle gates: *Application Submitted ➔ Officer Verification ➔ Executive Sanction ➔ Treasury Disbursement ➔ Active Servicing ➔ Early/Final Settlement*.
+1. **Advance Journey Timeline**: A  real-time visual progress tracker tracing each advance through 6 sequential lifecycle gates: *Application Submitted ➔ Officer Verification ➔ Executive Sanction ➔ Treasury Disbursement ➔ Active Servicing ➔ Early/Final Settlement*.
 2. **Financial Wellness Indicator**: An interactive semi-circle gauge providing an understandable overview of repayment affordability (Debt-to-Income, discretionary liquidity buffer) with non-judgmental guidance.
 3. **What-If Advance Simulator**: Real-time slider simulator calculating estimated repayments, fee breakdowns, APR, and comparing fast payoff vs. balanced vs. low monthly installments.
 4. **Smart Document Checklist**: Contextual missing document detection based on advance purpose (Salary Advance, Equipment Purchase, Medical Emergency) with simulated OCR verification.
